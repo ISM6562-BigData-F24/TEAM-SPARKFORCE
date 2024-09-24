@@ -4,7 +4,7 @@
 ![Alt text](rupeshpurum.jpg)
 -->
 
-<img src="rupeshpurum.jpg" alt="image" style="height: 300px; width: auto;">
+<img src="images/rupeshpurum.jpg" alt="image" style="height: 300px; width: auto;">
 
 
 Welcome to my GitHub!<br> 
